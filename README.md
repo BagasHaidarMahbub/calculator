@@ -1,4 +1,4 @@
-# tugas bootcamp ke 3
+# RESULT
 
 ![Alt text](ss.png?raw=true "gambar")
 
